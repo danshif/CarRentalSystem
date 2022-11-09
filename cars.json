@@ -1,0 +1,76 @@
+{
+  "cars": [
+    {
+      "id": 736510353,
+      "brand": "Honda",
+      "model": "C1",
+      "price": 24.00,
+      "status": "Available",
+      "rentalDateStart": 1667380108693,
+      "rentalDateEnd": 1667380108693
+    },
+    {
+      "id": 993904982,
+      "brand": "Honda",
+      "model": "C2",
+      "price": 56.00,
+      "status": "Available",
+      "rentalDateStart": 1667207771449,
+      "rentalDateEnd": 1667207771449
+    },
+    {
+      "id": 342432454,
+      "brand": "Honda",
+      "model": "C3",
+      "price": 78.00,
+      "status": "Available",
+      "rentalDateStart": 1667121387003,
+      "rentalDateEnd": 1667121387003
+    },
+    {
+      "id": 66634243,
+      "brand": "Honda",
+      "model": "C4",
+      "price": 2.00,
+      "status": "Available",
+      "rentalDateStart": 1667031406091,
+      "rentalDateEnd": 1667031406091
+    },
+    {
+      "id": 98879789,
+      "brand": "Honda",
+      "model": "C5",
+      "price": 32.00,
+      "status": "Available",
+      "rentalDateStart": 1666945017407,
+      "rentalDateEnd": 1666945017407
+    },
+    {
+      "id": 23432424,
+      "brand": "Honda",
+      "model": "C6",
+      "price": 56.00,
+      "status": "Available",
+      "rentalDateStart": 1666859000498,
+      "rentalDateEnd": 1666859000498
+    },
+    {
+      "id": 68678684,
+      "brand": "Honda",
+      "model": "C7",
+      "price": 100.00,
+      "status": "Available",
+      "rentalDateStart": 1666772608796,
+      "rentalDateEnd": 1666772608796
+    },
+    {
+      "id": 343432454,
+      "brand": "Honda",
+      "model": "C8",
+      "price": 12.00,
+      "status": "Available",
+      "rentalDateStart": 1666686216310,
+      "rentalDateEnd": 1666686216310
+    }
+  ]
+}
